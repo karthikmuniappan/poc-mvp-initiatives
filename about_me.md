@@ -11,7 +11,7 @@ is_home_btn_reqd: "True"
 *Credly Certification verfication link is available at [LinkedIn](https://www.linkedin.com/in/karthik-muniappan) profile*
 
 ## Microsoft Certified: DevOps Engineer Expert
-![Azure DevOps Expert]({{ "images/azure-administrator-associate-600x600.png" | absolute_url }})
+![Azure DevOps Expert]({{ "images/CERT-Expert-DevOps-Engineer-600x600.png" | absolute_url }})
 
 ## Microsoft Certified: Azure Administrator Associate
 ![Azure Administrator]({{ "images/azure-administrator-associate-600x600.png" | absolute_url }})
