@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Karthik Muniappan
-permalink: /sites/CX
 is_aboutpage: "True"
 is_home_btn_reqd: "True"
 ---
