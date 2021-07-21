@@ -4,9 +4,12 @@ is_home_page: “True”
 ---
 
 <ul>
+  <li>
+    <a href="CX.md">CX</a>
+  </li>  
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>  
+      <a href="{{ post.url }}">{{ post.title }}</a>
       <br>
       <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
