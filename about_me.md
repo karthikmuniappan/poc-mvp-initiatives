@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Karthik Muniappan
-permalink: /about_me/
+permalink: /sites/about_me/
 is_aboutpage: "True"
 is_home_btn_reqd: "True"
 ---
