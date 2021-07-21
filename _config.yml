@@ -1,3 +1,12 @@
 theme: jekyll-theme-cayman
-title: Intiatives and Reference Solutions
-subtitle: Karthik Muniappan
+title: Karthik Muniappan 
+subtitle: Intiatives and Reference Solutions
+description: >
+  DevOps Consultant. Cloud Solutions Designer. Cloud/On-prem/Hybrid Infrastructure Architect
+theme: jekyll-theme-cayman
+#paginate: 4
+plugins:
+  - jemoji
+linkedin_url:	https://www.linkedin.com/in/karthik-muniappan
+#upwork_url: 
+#twitter_url: 
