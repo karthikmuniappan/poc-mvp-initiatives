@@ -1,10 +1,3 @@
----
-layout: default
-title: Karthik Muniappan
-is_aboutpage: "True"
-is_home_btn_reqd: "True"
----
-
 # CX Solutions
 
 ⋅⋅* [Docker and Kubernetes in DevOps](CX/Docker_&_Kubernetes_in_DevOps.pdf)
