@@ -8,6 +8,7 @@ is_home_btn_reqd: "True"
 # Secure Application Lifecycle
 
 ## Core Infrastructure and Security Blog - Reference Links
+
 By [Magdy Salem](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/573559)
 
 ### [Secure Application Lifecycle - Part 1 - Using CredScan](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/secure-application-lifecycle-part-1-using-credscan/ba-p/1986960)
