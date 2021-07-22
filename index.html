@@ -12,7 +12,7 @@ is_aboutpage: "True"
   <p>General Posts</p>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="sites/{{ post.url }}">{{ post.title }}</a>
       <br>
       <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
