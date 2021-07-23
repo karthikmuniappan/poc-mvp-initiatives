@@ -2,7 +2,7 @@
 layout: default
 title: Karthik Muniappan
 permalink: /CX/
-is_aboutpage: "True"
+is_aboutpage: "False"
 is_home_btn_reqd: "True"
 ---
 
